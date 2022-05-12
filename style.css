@@ -12,6 +12,9 @@ h1 {
 h2 {
   font-weight: normal;
 }
+a:visited {
+  color: #300036;
+}
 #email {
   border-radius: 5px;
   color: #300036;
@@ -23,6 +26,7 @@ h2 {
 .btn {
   color: #fff;
   background-color: #660533;
+  border: #660533;
   border-radius: 5px;
   cursor: pointer;
 }
@@ -33,7 +37,16 @@ h2 {
 img {
   display: block;
   margin: auto;
-  padding: 10px;
   border: 2px solid rgb(46, 46, 100);
   border-radius: 10px;
+}
+.contact-btn {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+  color: #fff;
+  background-color: #660533;
+  border: #660533;
+  border-radius: 5px;
+  cursor: pointer;
 }
