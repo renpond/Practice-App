@@ -32,7 +32,7 @@ h2 {
 }
 img {
   display: block;
-  margin: 0 auto;
+  margin: auto;
   padding: 10px;
   border: 2px solid rgb(46, 46, 100);
   border-radius: 10px;
