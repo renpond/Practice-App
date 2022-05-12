@@ -1,4 +1,25 @@
+body {
+  text-align: center;
+}
 h1 {
   text-align: center;
-  color: red;
+  color: #660533;
+}
+#email {
+  border-radius: 10px;
+  color: #300036;
+}
+#pswd {
+  border-radius: 20px;
+  color: #300036;
+}
+.btn {
+  color: fuchsia;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+  border: 2px solid rgb(46, 46, 100);
+  border-radius: 10px;
 }
